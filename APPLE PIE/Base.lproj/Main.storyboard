@@ -296,6 +296,7 @@
                     <connections>
                         <outlet property="correctWordLabel" destination="Owm-J4-oYt" id="edm-1X-1vc"/>
                         <outlet property="scoreLabel" destination="I9f-Gg-4Cd" id="zub-Yq-Dfd"/>
+                        <outlet property="treeImageView" destination="P5f-cg-m2C" id="7vd-Yd-vDo"/>
                         <outletCollection property="letterButtons" destination="otE-Dz-6Cc" collectionClass="NSMutableArray" id="ePI-fR-UIb"/>
                         <outletCollection property="letterButtons" destination="3wY-Ta-82T" collectionClass="NSMutableArray" id="UOd-cK-DMa"/>
                         <outletCollection property="letterButtons" destination="fc3-Tz-P6p" collectionClass="NSMutableArray" id="6Zc-Da-3gT"/>
